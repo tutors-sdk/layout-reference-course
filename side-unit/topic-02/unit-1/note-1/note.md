@@ -1,4 +1,4 @@
-Markdown Options
+Note 3
 
 Full range of markdown syntax examples
 
