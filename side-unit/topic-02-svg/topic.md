@@ -3,6 +3,6 @@ icon:
   type: emojione:owl
 ---
 
-# Iconify
+# Topic 3
 
 Using Iconify defined icons instead of image files
