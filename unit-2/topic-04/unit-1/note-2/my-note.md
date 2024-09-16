@@ -5,7 +5,7 @@ order: 4
 
 This note has a linkable table of contents, generated automatically
 
-[toc]
+[[toc]]
 
 ## Part 1
 
